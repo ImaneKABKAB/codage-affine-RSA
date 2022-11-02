@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="code_affine">Code Affine</string>
+    <string name="write_your_text_here">Write Your Text Here !</string>
+    <string name="code_rsa">Code RSA</string>
+    <string name="your_affine_code">YOUR AFFINE CODE</string>
+    <string name="your_rsa_code">YOUR RSA CODE</string>
+    <string name="execution_time">Execution time</string>
+</resources>
